@@ -29,8 +29,14 @@ Contains the data model for the products. The `Product` class holds information 
 - **Full Widget Tree**: Implemented in the `Product Detail Screen`, where all elements like image, title, description, and price are embedded in a single `Column` widget.
 ## App Screenshots
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da5231cf-f736-437d-83c3-6550e6db4bfd" alt="Product List Screen" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fa2a7980-120e-4117-bdea-a077733e0e1d" alt="Product Detail Screen" width="400"/>
+</p>
+
 ## Getting Started
-![image](https://github.com/user-attachments/assets/da5231cf-f736-437d-83c3-6550e6db4bfd)
+
 
 
 To get a local copy up and running, follow these simple steps.
