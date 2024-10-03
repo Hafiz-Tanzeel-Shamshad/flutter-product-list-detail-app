@@ -27,8 +27,11 @@ Contains the data model for the products. The `Product` class holds information 
 - **Shallow Widget Tree**: Implemented in the `Product List Screen`, where complex widgets are broken down into smaller components such as `ProductTile`.
 
 - **Full Widget Tree**: Implemented in the `Product Detail Screen`, where all elements like image, title, description, and price are embedded in a single `Column` widget.
+## App Screenshots
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/da5231cf-f736-437d-83c3-6550e6db4bfd)
+
 
 To get a local copy up and running, follow these simple steps.
 
