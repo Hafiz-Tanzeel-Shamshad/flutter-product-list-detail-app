@@ -45,14 +45,10 @@ To get a local copy up and running, follow these simple steps.
 
 Ensure you have Flutter installed on your system. You can check by running:
 
-```bash
-flutter --version
 
-A few resources to get you started if this is your first Flutter project:
+## 📚 Resources
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Flutter Codelabs](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
